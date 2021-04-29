@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="WindowWidth">800</entry>
+    <entry key="WindowHeight">650</entry>
+    <entry key="GameZoneSize">600</entry>
+    <entry key="CellNumber">30</entry>
+    <entry key="Speed">600</entry>
+    <entry key="segmSize">20</entry>
+</properties>

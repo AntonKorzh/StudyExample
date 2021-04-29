@@ -1,0 +1,13 @@
+
+2021-04-29 13:23:00 WARN  [main]: One or more images are missing
+javax.imageio.IIOException: Can't read input file!
+	at java.desktop/javax.imageio.ImageIO.read(ImageIO.java:1308)
+	at base.MyPanel.<init>(MyPanel.java:63)
+	at base.Snake.main(Snake.java:55)
+2021-04-29 13:55:48 ERROR [main]: Properties.XML not found
+java.io.FileNotFoundException: src\main\java\base\Properties.XML (Системе не удается найти указанный путь)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at snake.Snake.main(Snake.java:36)
